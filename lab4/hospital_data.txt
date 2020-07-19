@@ -1,0 +1,19 @@
+id_num	hospital
+74532	Ankara
+63215	Medicana
+9831	Ankara
+20314	Medicana
+51023	Ankara
+69887	Medicana
+11452	Ankara
+32987	TOBB ETU
+56987	TOBB ETU
+36985	Ankara
+478967	Medicana
+36589	Medicana
+14147	Bayindir
+74123	Medicana
+65179	TOBB ETU
+123	Medicana
+87954	Bayindir
+15487	Hacettepe

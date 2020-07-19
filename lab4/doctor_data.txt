@@ -1,0 +1,19 @@
+id_num	doc_name	specialty	num_patients
+123	Murat Say	Cardiology	1301
+87954	Jale Tunc	ENT	1471
+15487	Mehmet Ay	Optometry	1303
+56987	Melis Koc	ENT	1274
+36985	Irem Basar	Dentistry	1538
+478967	Ayla Guner	Cardiology	1630
+74532	Elif Som	Optometry	1573
+63215	Veysel Ok	Optometry	1550
+36589	Rustu Akkas	Dentistry	1258
+14147	Adem Altun	Orthopedics	1684
+74123	Cagla Sabri	ENT	1624
+65179	Mehmet Bas	Cardiology	1273
+9831	Ada Kimyaci	Pediatrics	1418
+20314	Yaban Bugra	Dentistry	1226
+51023	Aytug Yavuz	Pediatrics	1668
+69887	Mert Aydin	Dentistry	1470
+11452	Burcak Asik	Gynecology	1699
+32987	Tugrul Gok	Pediatrics	1216
