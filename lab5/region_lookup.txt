@@ -1,0 +1,7 @@
+AG	Ege Bolgesi	Aegean Region
+BS	Karadeniz Bolgesi	Black Sea Region
+CA	Ic Anadolu Bolgesi	Central Anatolian Region
+EA	Dogu Anadolu Bolgesi	Eastern Anatolian Region
+MD	Akdeniz Bolgesi	Mediterranean Region
+MM	Marmara Bolgesi	Marmara Region
+SE	Guneydogu Anadolu Bolgesi	Southeastern Anatolian Region
