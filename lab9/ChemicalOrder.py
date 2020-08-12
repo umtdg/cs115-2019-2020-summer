@@ -5,7 +5,7 @@ class ChemicalOrder:
     def __init__(self, filename):
         self.__e_list = []
 
-        self.load_order(filename)
+        self.load_elements(filename)
 
     def load_elements(self, filename):
         data = np.loadtxt(filename, delimiter="\t", dtype=np.str)
@@ -29,10 +29,6 @@ class ChemicalOrder:
                     properties[property_names[j]] = row[j]
 
             self.__e_list.append(Element.Element(name, properties))
-
-    def load_order(self, filename):
-        self.load_elements(filename)
-        self.sort_elements()
 
     def get_element_count(self):
         return len(self.__e_list)
